@@ -27,3 +27,4 @@ O código utiliza também as bibliotecas os, json, numpy, datetime, pathlib, re,
 
 Utilize o comando $pyinstaller locationFinder.py para montar um executável.
 
+@@ os dados devem estar no modeo disposto nos arquivos contidos na pasta 2022 (conforme extraído pelo semantic history location do google)
